@@ -7,6 +7,7 @@ public class deneme {
 		System.out.println("bakbakbak");
 		System.out.println("github dan eklenmiÅŸtir");
 		System.out.println("wewewe");
+		System.out.println("cakışma");
 
 	}
 
