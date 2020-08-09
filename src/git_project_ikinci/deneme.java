@@ -6,6 +6,7 @@ public class deneme {
 		System.out.println("denememem");
 		System.out.println("bakbakbak");
 		System.out.println("github dan eklenmiştir");
+		System.out.println("wewewe");
 
 	}
 
